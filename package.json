@@ -1,0 +1,17 @@
+{
+  "name": "google-translate-cli",
+  "version": "1.0.0",
+  "description": "A tiny NodeJS application to translate JSON files using Google Translate.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Jecho Jekov",
+    "url": "https://github.com/JechoJekov"
+  },
+  "license": "Unlicense",
+  "dependencies": {
+    "google-translate-api": "^2.3.0"
+  }
+}
